@@ -1,0 +1,5 @@
+#ignoring secret.txt
+secret.txt
+
+#ignoring all files with .exe 
+*.exe
